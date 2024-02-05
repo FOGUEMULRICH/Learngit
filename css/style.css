@@ -1,0 +1,18 @@
+label{
+    display: Block;
+}
+
+input{
+    height: 30px;
+    outline: 0;
+    width: 50%;
+    border-radius: 50px;
+    text-indent: 20px;
+    border: 2px solid blueviolet;
+}
+button{
+    height: 30px;
+    width: 50%;
+    border-radius: 50px;
+    border: 1px solid blueviolet;
+}
